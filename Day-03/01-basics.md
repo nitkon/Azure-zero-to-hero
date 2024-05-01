@@ -30,3 +30,6 @@ A **Resource Group** in Azure is a logical container for resources that share th
 
 **Note:** Understanding Azure resources, resource groups, and Azure Resource Manager is fundamental to effectively utilize and manage your resources in the Azure cloud.
 
+## Extra Notes
+- Resource and Resource Groups are always one-to-one mapping. A resource cannot be part of multiple resource groups. 
+
